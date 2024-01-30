@@ -1,0 +1,8 @@
+﻿  raytracer_students.cpp
+C:\Users\racit\source\repos\LAB_04\LAB_04\mesh.h(37,1): warning C4267: 'return': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\racit\source\repos\LAB_04\LAB_04\mesh.h(71,1): warning C4267: 'return': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\racit\source\repos\LAB_04\LAB_04\mesh.h(91,1): warning C4267: 'return': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\racit\source\repos\LAB_04\LAB_04\raytracer_students.cpp(121,45): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\racit\source\repos\LAB_04\LAB_04\raytracer_students.cpp(161,68): warning C4305: 'argomento': troncamento da 'double' a 'float'
+C:\Users\racit\source\repos\LAB_04\LAB_04\face.h(52): warning C4715: 'Face::operator[]': non tutti i percorsi di controllo restituiscono un valore
+  LAB_04.vcxproj -> C:\Users\racit\source\repos\LAB_04\x64\Debug\LAB_04.exe

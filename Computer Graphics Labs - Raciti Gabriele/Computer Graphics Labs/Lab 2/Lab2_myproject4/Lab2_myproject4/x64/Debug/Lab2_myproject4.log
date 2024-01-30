@@ -1,0 +1,57 @@
+﻿  Lab2_myproject4.cpp
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(58,14): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(90,12): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(116,10): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(117,10): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(118,10): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(120,10): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(121,10): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(122,10): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(213,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(219,24): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(220,24): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(223,28): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(224,28): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(236,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(242,44): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(243,44): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(246,54): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(247,54): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(260,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(266,24): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(267,24): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(268,93): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(271,28): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(272,28): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(273,109): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(277,109): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(296,68): warning C4305: 'argomento': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(369,9): warning C4101: 'cont': variabile locale senza riferimenti
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(369,6): warning C4101: 'i': variabile locale senza riferimenti
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(408,18): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(461,10): warning C4244: '+=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(477,30): warning C4244: '+=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(530,49): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(530,35): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(530,28): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(546,38): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(546,24): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(578,77): warning C4305: 'argomento': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(741,11): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(742,16): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(761,27): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(766,27): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(779,49): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(779,35): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(779,28): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(821,10): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(891,21): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(1325,77): warning C4305: 'argomento': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(1359,77): warning C4305: 'argomento': troncamento da 'double' a 'float'
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(1387,82): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(1393,23): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(1394,23): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\Lab2_myproject4\Lab2_myproject4.cpp(1395,23): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+  ShaderMaker.cpp
+  Generazione del codice in corso...
+  Lab2_myproject4.vcxproj -> C:\Users\pc\Desktop\CGra\Computer Graphics Labs\Lab 2\Lab2_myproject4\x64\Debug\Lab2_myproject4.exe
